@@ -47,7 +47,7 @@ It uses **PivotTables, PivotCharts, calculated fields, and slicers** to provide 
 ![Average Price by Manufacturer](https://github.com/blueocean-sketch/Used_Car_Sales_Dashboard/blob/main/avg_price_by_manufacturer.png.png)  
 *Shows the mean price of cars for each manufacturer.*
 
-![Distribution of Cars by Fuel Type]([car_distribution_by_fuel_type.png](https://github.com/blueocean-sketch/Used_Car_Sales_Dashboard/blob/main/car_distribution_by_fuel_type.png.png))  
+![Distribution of Cars by Fuel Type](https://github.com/blueocean-sketch/Used_Car_Sales_Dashboard/blob/main/car_distribution_by_fuel_type.png.png)  
 *Shows the number of cars for each fuel type.*
 
 ![Average Price by Engine Category]([avg_price_by_engine_category.png](https://github.com/blueocean-sketch/Used_Car_Sales_Dashboard/blob/main/avg_price_by_engine_category.png.png))  
