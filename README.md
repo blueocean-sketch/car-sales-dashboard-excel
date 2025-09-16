@@ -44,16 +44,16 @@ It uses **PivotTables, PivotCharts, calculated fields, and slicers** to provide 
 
 ## 📊 Visuals  
 
-![Average Price by Manufacturer]([avg_price_by_manufacturer.png](avg_car_age_by_manufacturer.png.png))  
+![Average Price by Manufacturer](https://github.com/blueocean-sketch/Used_Car_Sales_Dashboard/blob/main/avg_price_by_manufacturer.png.png)  
 *Shows the mean price of cars for each manufacturer.*
 
-![Distribution of Cars by Fuel Type](car_distribution_by_fuel_type.png)  
+![Distribution of Cars by Fuel Type]([car_distribution_by_fuel_type.png](https://github.com/blueocean-sketch/Used_Car_Sales_Dashboard/blob/main/car_distribution_by_fuel_type.png.png))  
 *Shows the number of cars for each fuel type.*
 
-![Average Price by Engine Category](avg_price_by_engine_category.png)  
+![Average Price by Engine Category]([avg_price_by_engine_category.png](https://github.com/blueocean-sketch/Used_Car_Sales_Dashboard/blob/main/avg_price_by_engine_category.png.png))  
 *Shows the average price for Small, Medium, and Large engine categories.*
 
-![Average Car Age by Manufacturer](avg_car_age_by_manufacturer.png)  
+![Average Car Age by Manufacturer]([avg_car_age_by_manufacturer.png](https://github.com/blueocean-sketch/Used_Car_Sales_Dashboard/blob/main/avg_car_age_by_manufacturer.png.png))  
 *Shows the average age of cars by manufacturer.*
 
 ## ✅ Conclusion
