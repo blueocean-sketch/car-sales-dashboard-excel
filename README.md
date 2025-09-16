@@ -44,7 +44,7 @@ It uses **PivotTables, PivotCharts, calculated fields, and slicers** to provide 
 
 ## 📊 Visuals  
 
-![Average Price by Manufacturer](avg_price_by_manufacturer.png)  
+![Average Price by Manufacturer]([avg_price_by_manufacturer.png](avg_car_age_by_manufacturer.png.png))  
 *Shows the mean price of cars for each manufacturer.*
 
 ![Distribution of Cars by Fuel Type](car_distribution_by_fuel_type.png)  
