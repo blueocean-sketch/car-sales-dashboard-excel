@@ -43,17 +43,16 @@ It uses **PivotTables, PivotCharts, calculated fields, and slicers** to provide 
 - Porsche cars are the youngest (~20.44 years).  
 
 ## 📊 Visuals  
-
-![Average Price by Manufacturer](https://raw.githubusercontent.com/blueocean-sketch/Used_Car_Sales_Dashboard/main/avg_price_by_manufacturer.png.png)
+<img width="507" height="299" alt="Image" src="https://github.com/user-attachments/assets/47998403-3223-49b6-a64a-f3fa83c7073a" />
 *Shows the mean price of cars for each manufacturer.*
 
-![Distribution of Cars by Fuel Type](https://raw.githubusercontent.com/blueocean-sketch/Used_Car_Sales_Dashboard/main/car_distribution_by_fuel_type.png.png)
+<img width="551" height="288" alt="Image" src="https://github.com/user-attachments/assets/8da21a40-53ea-42dc-8aa7-707820a032c4" />
 *Shows the number of cars for each fuel type.*
 
-![Average Price by Engine Category](https://raw.githubusercontent.com/blueocean-sketch/Used_Car_Sales_Dashboard/main/avg_price_by_engine_category.png.png)
+<img width="519" height="285" alt="Image" src="https://github.com/user-attachments/assets/62e441b8-3c64-4cf9-804f-cdee87381353" />
 *Shows the average price for Small, Medium, and Large engine categories.*
 
-![Average Car Age by Manufacturer](https://raw.githubusercontent.com/blueocean-sketch/Used_Car_Sales_Dashboard/main/avg_car_age_by_manufacturer.png.png)
+<img width="564" height="270" alt="Image" src="https://github.com/user-attachments/assets/335e9b2e-4891-4db1-a332-2b6d5afa1a76" />
 *Shows the average age of cars by manufacturer.*
 
 ## ✅ Conclusion
