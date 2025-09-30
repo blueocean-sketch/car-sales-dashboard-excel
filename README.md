@@ -40,32 +40,31 @@ It uses **PivotTables, PivotCharts, calculated fields, and slicers** to provide 
 ### 4. Manufacturer vs Average Car Age
 - Overall average car age: ~20.8 years.  
 - BMW cars are the oldest (~20.95 years).  
-- Porsche cars are the youngest (~20.44 years).  
+- Porsche cars are the youngest (~20.44 years). 
 
 ## 📊 Visuals  
-<img width="507" height="299" alt="Image" src="https://github.com/user-attachments/assets/47998403-3223-49b6-a64a-f3fa83c7073a" />
 
-*Shows the mean price of cars for each manufacturer.*
-
-
-
-<img width="551" height="288" alt="Image" src="https://github.com/user-attachments/assets/8da21a40-53ea-42dc-8aa7-707820a032c4" />
-
-*Shows the number of cars for each fuel type.*
+<img width="816" height="391" alt="Capture" src="https://github.com/user-attachments/assets/8fe68def-3032-42b6-b85c-afafac5a16fa" />
 
 
 
-<img width="519" height="285" alt="Image" src="https://github.com/user-attachments/assets/62e441b8-3c64-4cf9-804f-cdee87381353" />
-
-*Shows the average price for Small, Medium, and Large engine categories.*
+<img width="800" height="493" alt="Capture" src="https://github.com/user-attachments/assets/295009b5-c2e1-4de5-b8f9-7aa64bcb6676" />
 
 
 
-<img width="564" height="270" alt="Image" src="https://github.com/user-attachments/assets/335e9b2e-4891-4db1-a332-2b6d5afa1a76" />
 
-*Shows the average age of cars by manufacturer.*
+<img width="938" height="400" alt="avg_price_by_engine_category" src="https://github.com/user-attachments/assets/132f6b49-9fc1-4375-8c88-e13327b4f4b5" />
 
 
+
+
+<img width="931" height="445" alt="avg_car_age_by_manufacturer" src="https://github.com/user-attachments/assets/44e24e25-6fe4-4599-a002-a6d2a407d62a" />
+
+
+
+
+<img width="1222" height="504" alt="Dashboard" src="https://github.com/user-attachments/assets/11674da0-384a-4064-893d-361d9076ffec" />
+#Dashboard view
 
 ## ✅ Conclusion
 This project demonstrates how Excel can be used for **data analysis, visualization, and dashboarding**.  
