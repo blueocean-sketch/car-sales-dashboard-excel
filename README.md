@@ -43,21 +43,6 @@ It uses **PivotTables, PivotCharts, calculated fields, and slicers** to provide 
 - Porsche cars are the youngest (~20.44 years). 
 
 ## 📊 Visuals  
-
-<img width="816" height="391" alt="Capture" src="https://github.com/user-attachments/assets/8fe68def-3032-42b6-b85c-afafac5a16fa" />
-
-
-
-<img width="800" height="493" alt="Capture" src="https://github.com/user-attachments/assets/295009b5-c2e1-4de5-b8f9-7aa64bcb6676" />
-
-
-
-
-<img width="938" height="400" alt="avg_price_by_engine_category" src="https://github.com/user-attachments/assets/132f6b49-9fc1-4375-8c88-e13327b4f4b5" />
-
-
-
-
 <img width="931" height="445" alt="avg_car_age_by_manufacturer" src="https://github.com/user-attachments/assets/44e24e25-6fe4-4599-a002-a6d2a407d62a" />
 
 
