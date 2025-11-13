@@ -1,56 +1,86 @@
-# Car_Sales_Dashboard (Excel)
+# Car Sales Dashboard Analysis Project
+> A data visualization project uncovering pricing and efficiency patterns across global car brands.
+<img width="1321" height="509" alt="Capture1" src="https://github.com/user-attachments/assets/59fcc3dc-7504-49b0-a770-47c8ebdb10dd" />
 
-## 📌 Project Overview
-This project is an **interactive Excel dashboard** that analyzes car sales data.  
-It uses **PivotTables, PivotCharts, calculated fields, and slicers** to provide insights into car prices, fuel distribution, engine categories, and manufacturer trends.  
+## Overview
+This project analyzes a mock dataset of **50,000 car records** across major manufacturers to uncover insights on pricing, cost efficiency, engine type, fuel usage, and market trends. Analysis and visualization were done in **Microsoft Excel**, with a concise **PowerPoint** summary.
 
-## 📊 Dataset 
-**Source:** [Kaggle – Mock Dataset of Car Sales](https://www.kaggle.com/datasets/msnbehdani/mock-dataset-of-second-hand-car-sales)  
-- **Fields included:** Manufacturer, Model, Engine Size, Fuel Type, Year of Manufacture, Mileage, Price  
-- **Additional calculated fields added in Excel:**
-  - **Engine Category** (Small, Medium, Large based on engine size)   
-  - **Car Age** (based on year of manufacture)
-  - **Age Category** (e.g., Mid-age, Old)
+## Objectives
+- Understand how **price correlates with cost efficiency**.  
+- Compare performance across **manufacturers, engine categories, and fuel types**.  
+- Identify **market trends** in pricing, affordability, and efficiency.  
+- Provide **recommendations** based on data insights.
 
-## ⚙️ Features of the Dashboard
-- PivotTables for quick data summarization  
-- PivotCharts (Bar charts, Pie charts) for visualization  
-- Slicers for interactive filtering (Manufacturer, Fuel Type, Engine Category)  
-- Separate sheets for raw data, pivot analysis, and final dashboard view  
+## Dataset Summary
+- **Manufacturers:** BMW, Ford, Porsche, Toyota, VW  
+- **Fuel Types:** Petrol, Diesel, Hybrid  
+- **Engine Categories:** Small, Medium, Large  
+- **Key Metrics:** Price, Cost Efficiency (Price / Mileage), Car Age  
+- **Total Records:** 50,000
 
-## 📈 Key Insights 
+## Excel Dashboard Highlights
+**Charts included (8):**
+1. Average Price by Manufacturer  
+2. Distribution of Cars by Fuel Type  
+3. Average Cost Efficiency by Manufacturer  
+4. Average Price by Engine Category  
+5. Average Car Age by Manufacturer  
+6. Average Cost Efficiency by Engine Category  
+7. Average Cost Efficiency by Fuel Type  
+8. Price vs. Average Cost Efficiency (Scatter)
 
-### 1. Average Price by Manufacturer
-- Porsche cars have the **highest average price** (~29,104), followed by BMW (~24,429).  
-- VW cars have the **lowest average price** (~10,363).  
-- Ford (~10,672) and Toyota (~14,340) lie in the mid-range segment.  
-- Overall **average price across all manufacturers** = ~13,829.  
+**Interactive features:**
+- Slicers: Manufacturer, Fuel Type, Engine Category  
+- KPIs: Avg Price = ₹13,828.90 | Avg Cost Efficiency = 0.49
 
-### 2. Fuel Type Distribution
-- Petrol cars dominate the dataset with **25,488 entries (~51%)**.  
-- Diesel cars: **13,268 (~27%)**.  
-- Hybrid models: **11,244 (~22%)**.  
-- Dataset size = **50,000 cars**.  
+## 📊 PowerPoint Summary Screenshot
+A brief overview slide capturing insights, visuals, and recommendations.
 
-### 3. Engine Category vs Average Price
-- **Large engines** average ~32,018 (most expensive).  
-- **Medium engines** average ~14,415.  
-- **Small engines** average ~9,424 (most affordable).  
+<img width="882" height="500" alt="key findings screenshot" src="https://github.com/user-attachments/assets/13a02008-450e-4c4d-9e50-4e8a3f05cdad" />
+<img width="887" height="498" alt="dashboard highlights" src="https://github.com/user-attachments/assets/bc5ea490-4507-477a-bad5-ff4f40f6d786" />
 
-### 4. Manufacturer vs Average Car Age
-- Overall average car age: ~20.8 years.  
-- BMW cars are the oldest (~20.95 years).  
-- Porsche cars are the youngest (~20.44 years). 
+## Key Findings
+- Porsche and BMW lead in premium pricing; Ford and VW are more affordable.  
+- Petrol cars are the most common; diesel and hybrid vehicles show relatively better efficiency.  
+- Medium-engine cars offer a strong balance between performance and cost efficiency.  
+- Price is not a perfect proxy for efficiency — some affordable models are better optimized.
 
-## 📊 Visuals  
-<img width="931" height="445" alt="avg_car_age_by_manufacturer" src="https://github.com/user-attachments/assets/44e24e25-6fe4-4599-a002-a6d2a407d62a" />
+## Recommendations
+- **Manufacturers:** Improve cost efficiency in mid-range models to attract value-driven customers.  
+- **Dealers:** Emphasize Toyota and Ford models as good price–efficiency choices.  
+- **Marketing:** Promote efficiency metrics alongside brand value to attract practical buyers.  
+- **Future Work:** Integrate EV data to evaluate how electric vehicles impact cost-efficiency trends.
+
+## PowerPoint Summary
+The PowerPoint includes slides for objectives, dataset overview, KPIs, selected visuals, summary insights, and recommendations.
+
+## File Structure (suggested)
+Car-Sales-Analysis/
+├── Car_Sales_Dashboard.xlsx        # Excel file with all data, pivots & dashboard
+├── Car_Sales_Presentation.pptx     # PowerPoint summary of insights
+├── images/
+│   ├── dashboard.png
+│   ├── key_findings.png
+│   └── presentation_summary.png
+└── README.md
+
+## 🧠 Learning Outcomes
+This project strengthened skills in:
+- Data cleaning and transformation using Excel formulas  
+- Creating Pivot Tables, KPIs, and Slicers for dynamic dashboards  
+- Visual storytelling through PowerPoint  
+- Translating raw data into actionable business recommendations  
+
+---
+
+## 💬 Acknowledgments
+
+**Dataset Source:**  
+Mock dataset inspired by [Kaggle – Mock Dataset of Second-Hand Car Sales](https://www.kaggle.com/datasets/msnbehdani/mock-dataset-of-second-hand-car-sales)  
+
+**Tools Used:**  
+Microsoft Excel (PivotTables, Charts, Slicers), PowerPoint
+
+---
 
 
-
-
-<img width="1222" height="504" alt="Dashboard" src="https://github.com/user-attachments/assets/11674da0-384a-4064-893d-361d9076ffec" />
-#Dashboard view
-
-## ✅ Conclusion
-This project demonstrates how Excel can be used for **data analysis, visualization, and dashboarding**.  
-It highlights trends in car pricing, fuel usage, engine size impact, and manufacturer age distribution — showcasing **business intelligence skills relevant for analytics roles**.
