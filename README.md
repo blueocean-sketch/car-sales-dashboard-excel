@@ -54,7 +54,7 @@ A brief overview slide capturing insights, visuals, and recommendations.
 ## PowerPoint Summary
 The PowerPoint includes slides for objectives, dataset overview, KPIs, selected visuals, summary insights, and recommendations.
 
-## File Structure (suggested)
+## File Structure 
 Car-Sales-Analysis/
 ├── Car_Sales_Dashboard.xlsx        # Excel file with all data, pivots & dashboard
 ├── Car_Sales_Presentation.pptx     # PowerPoint summary of insights
